@@ -57,3 +57,7 @@ h3 {
   box-shadow: 4px 4px 10px 0 #333;
   color: white;
 }
+
+.animation {
+  background-color: #666;
+}
